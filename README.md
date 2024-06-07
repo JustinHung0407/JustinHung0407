@@ -20,13 +20,12 @@
 
 
 <summary> 😇 <b>My Github Stats</b>: </summary>
-
-<p  align="center">
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=justinhung0407&theme=catppuccin-mocha&card_width=600&card_height=200" alt="GitHub Streak" />
+<br>
+<p align="center">
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=justinhung0407&theme=catppuccin-mocha&card_width=600&card_height=200" alt="GitHub Streak" />
 </a>
-
+</p>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=justinhung0407&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinhung0407&layout=compact&theme=catppuccin_mocha&hide_border=true" /></a> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-</p>
