@@ -32,7 +32,7 @@
 
 
 
-<h1 align="center">🚀 My weapon:</h1>
+<h1 align="center">🚀 My weapon</h1>
 
 ### Languages & Frameworks 
 <p> 
