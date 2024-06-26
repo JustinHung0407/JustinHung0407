@@ -19,7 +19,7 @@
 - 📄 Know about my experiences [cakeresume](https://cakeresume.com/justin-hung)
 
 
-<summary> 😇 <b>My Github Stats</b>: </summary>
+<h1 align="center">😇 <b>My Github Stats</b>:</h1>
 <br>
 <p align="center">
 <a href="https://git.io/streak-stats">
